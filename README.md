@@ -16,5 +16,11 @@
 
 #### [MS Excel](https://github.com/olunyalu/Data_Analyst_Portfolio/tree/main/02.excel)
 
+---
+
 Примеры работ, демонстрирующие навыки владения основными инструментами Excel для анализа данных(VLOOKUP, HLOOKUP, INDEX+MATCH, POWER PIVOT, POWER QUERY).
+
+#### [Python](https://github.com/olunyalu/Data_Analyst_Portfolio/tree/main/03.parser_python)
+
+Pytron description
 
