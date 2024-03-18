@@ -20,7 +20,7 @@
 
 ---
 
-#### [Python | Парсинг сайта «ПроДокторов"](https://github.com/olunyalu/Data_Analyst_Portfolio/tree/main/03.parser_python)
+#### [Python | Парсинг сайта "ПроДокторов"](https://github.com/olunyalu/Data_Analyst_Portfolio/tree/main/03.parser_python)
 
 Парсер для сайта «ПроДокторов» разработан на языке Python с использованием библиотек для работы с веб-страницами, такими как requests для получения страниц и BeautifulSoup, lxml для парсинга HTML-кода.
 
