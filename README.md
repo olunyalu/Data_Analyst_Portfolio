@@ -16,7 +16,9 @@
 
 #### [MS Excel](https://github.com/olunyalu/Data_Analyst_Portfolio/tree/main/02.excel)
 
+
 Проекты, демонтрирующие использование основных инструментов Excel для анализа данных (функции, Power Pivot, Power Query), а также материалы с прохождения курса "MS Excel - Продвинутый пользователь" на платформе Stepik.
+
 ---
 
 #### [Python | Парсинг сайта "ПроДокторов"](https://github.com/olunyalu/Data_Analyst_Portfolio/tree/main/03.parser_python)
